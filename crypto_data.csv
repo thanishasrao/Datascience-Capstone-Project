@@ -1,0 +1,27 @@
+Symbol,Name,Category,Volatility_Percentage,Trading_Volume_USD
+BTC,Bitcoin,Payment / Store of Value,45.2,28500000000
+ETH,Ethereum,Smart Contract Platform,58.4,14200000000
+SOL,Solana,Smart Contract Platform,82.5,4100000000
+BNB,Binance Coin,Exchange Token,48.1,1200000000
+XRP,Ripple,Payment Network,68.9,1850000000
+ADA,Cardano,Smart Contract Platform,72.4,950000000
+DOGE,Dogecoin,Meme Coin,95.6,1800000000
+SHIB,Shiba Inu,Meme Coin,106.5,310000000
+AVAX,Avalanche,Smart Contract Platform,88.2,520000000
+DOT,Polkadot,Interoperability,79.1,340000000
+LINK,Chainlink,Oracle Network,74.3,610000000
+MATIC,Polygon,Layer 2 Scaling,86.7,430000000
+LTC,Litecoin,Payment / Store of Value,54.8,480000000
+UNI,Uniswap,DeFi / DEX,81.3,310000000
+ATOM,Cosmos,Interoperability,83.9,190000000
+NEAR,Near Protocol,Smart Contract Platform,103.5,357000000
+XLM,Stellar Lumens,Payment Network,103.2,396000000
+ALGO,Algorand,Smart Contract Platform,84.1,140000000
+ICP,Internet Computer,Infrastructure,91.7,165000000
+FIL,Filecoin,Decentralized Storage,94.2,210000000
+BONK,Bonk,Meme Coin,143.4,242000000
+WIF,dogwifhat,Meme Coin,122.3,250000000
+FLOKI,Floki,Meme Coin,107.2,127000000
+PEPE,Pepe,Meme Coin,118.7,850000000
+USDT,Tether,Stablecoin,1.2,45000000000
+USDC,USD Coin,Stablecoin,0.9,7800000000
