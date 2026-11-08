@@ -1,0 +1,4 @@
+# .gitignore for simple student capstone project
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
