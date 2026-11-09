@@ -1,4 +1,22 @@
-# .gitignore for simple student capstone project
-.ipynb_checkpoints/
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code / PyCharm / IDE settings
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
