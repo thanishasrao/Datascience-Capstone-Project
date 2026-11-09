@@ -84,3 +84,13 @@ Crypto-Risk-Clustering-Beginner/
   - `sklearn.preprocessing.StandardScaler` - Feature normalization
   - `sklearn.cluster.KMeans` - K-Means clustering algorithm
   - `sklearn.metrics.silhouette_score` - Cluster cohesion and separation validation
+
+---
+
+## 6. Team Division of Work
+
+| Sl. No. | Student Name | USN | Assigned Workload / Phases |
+| :---: | :--- | :---: | :--- |
+| 1 | **Thanisha S** | `1RUA25SCS0110` | Problem Definition & ML Identification (Phase 1), K-Means Clustering implementation (Phase 4), Proposal & Report writing |
+| 2 | **Srujana Shreya Raju** | `1RUA25SCS0105` | Data Collection, Data Preprocessing & Exploratory Data Analysis (Phase 2), Colab Notebook testing |
+| 3 | **Rachana B** | `1RUA25SCS0079` | Feature Selection & Scaling (Phase 3), Visualization & Centroid plotting (Phase 5), New Data Prediction (Phase 6) |

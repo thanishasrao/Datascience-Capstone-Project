@@ -98,7 +98,17 @@ The model successfully grouped the 26 cryptocurrencies into 4 distinct risk tier
 
 ---
 
-## 7. References
+## 7. Team Contributions
+
+| Sl. No. | Student Name | USN | Contribution / Phase Responsibilities |
+| :---: | :--- | :---: | :--- |
+| 1 | **Thanisha S** | `1RUA25SCS0110` | Problem Definition & ML Formulation (Phase 1), K-Means Clustering Model (Phase 4), Final Report & Proposal Writing |
+| 2 | **Srujana Shreya Raju** | `1RUA25SCS0105` | Dataset Curation, Data Cleaning, Preprocessing & Exploratory Data Analysis (Phase 2), Colab Testing |
+| 3 | **Rachana B** | `1RUA25SCS0079` | Feature Selection, StandardScaler Normalization (Phase 3), Centroid Visualizations (Phase 5), New Data Prediction (Phase 6) |
+
+---
+
+## 8. References
 1. RV University CS2235 Data Science Laboratory Manual (Programs 8 & 9: PCA and K-Means Clustering).
 2. Scikit-learn Documentation: `sklearn.cluster.KMeans` and `sklearn.preprocessing.StandardScaler`.
 3. McKinney, Wes. *Python for Data Analysis*, O'Reilly Media.

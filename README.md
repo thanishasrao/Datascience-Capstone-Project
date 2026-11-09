@@ -60,3 +60,13 @@ jupyter notebook cryptocurrency_risk_clustering.ipynb
 | **Tier 2** | **Moderate Risk** | High-liquidity, established large-cap cryptocurrencies | BTC, ETH, BNB |
 | **Tier 3** | **High Risk** | Fast-growing mid-cap smart contract and DeFi platforms | SOL, ADA, DOT, LINK |
 | **Tier 4** | **Extreme Risk** | Speculative meme tokens with severe price swings (>100%) | DOGE, SHIB, BONK, WIF |
+
+---
+
+## 👥 Team Members & Contributions
+
+| Sl. No. | Student Name | USN | Contribution / Phase Responsibilities |
+| :---: | :--- | :---: | :--- |
+| 1 | **Thanisha S** | `1RUA25SCS0110` | Problem Formulation, K-Means Clustering Model (Phases 1 & 4), Report Writing |
+| 2 | **Srujana Shreya Raju** | `1RUA25SCS0105` | Data Preprocessing, Cleaning & EDA (Phase 2), Colab Testing |
+| 3 | **Rachana B** | `1RUA25SCS0079` | Feature Selection, StandardScaler & Visualizations (Phases 3 & 5), Documentation |
