@@ -3,7 +3,11 @@
 **Course:** CS2235 - Data Science Capstone Project  
 **Program:** B.Sc. (Hons.) Data Science, Semester III  
 **Institution:** School of Computer Science and Engineering, RV University, Bengaluru  
-**Student Name:** Thanisha S Rao  
+
+### Team Members:
+1. **Thanisha S** — USN: `1RUA25SCS0110`
+2. **Srujana Shreya Raju** — USN: `1RUA25SCS0105`
+3. **Rachana B** — USN: `1RUA25SCS0079`  
 
 ---
 

@@ -2,6 +2,14 @@
 ## CS2235 - Data Science Capstone Project
 ### Title: Cryptocurrency Risk Analysis using K-Means Clustering
 
+**Team Members:**
+1. **Thanisha S** (USN: `1RUA25SCS0110`)
+2. **Srujana Shreya Raju** (USN: `1RUA25SCS0105`)
+3. **Rachana B** (USN: `1RUA25SCS0079`)
+
+**Program:** B.Sc. (Hons.) Data Science, Semester III  
+**Course Code:** CS2235 - Data Science  
+
 ---
 
 ## 1. Problem Statement
